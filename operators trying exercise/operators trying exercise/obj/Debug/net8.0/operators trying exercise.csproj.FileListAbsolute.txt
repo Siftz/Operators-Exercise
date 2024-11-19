@@ -1,0 +1,15 @@
+C:\Users\lakin\repos\Operators-Exercise\operators trying exercise\operators trying exercise\bin\Debug\net8.0\operators trying exercise.exe
+C:\Users\lakin\repos\Operators-Exercise\operators trying exercise\operators trying exercise\bin\Debug\net8.0\operators trying exercise.deps.json
+C:\Users\lakin\repos\Operators-Exercise\operators trying exercise\operators trying exercise\bin\Debug\net8.0\operators trying exercise.runtimeconfig.json
+C:\Users\lakin\repos\Operators-Exercise\operators trying exercise\operators trying exercise\bin\Debug\net8.0\operators trying exercise.dll
+C:\Users\lakin\repos\Operators-Exercise\operators trying exercise\operators trying exercise\bin\Debug\net8.0\operators trying exercise.pdb
+C:\Users\lakin\repos\Operators-Exercise\operators trying exercise\operators trying exercise\obj\Debug\net8.0\operators trying exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakin\repos\Operators-Exercise\operators trying exercise\operators trying exercise\obj\Debug\net8.0\operators trying exercise.AssemblyInfoInputs.cache
+C:\Users\lakin\repos\Operators-Exercise\operators trying exercise\operators trying exercise\obj\Debug\net8.0\operators trying exercise.AssemblyInfo.cs
+C:\Users\lakin\repos\Operators-Exercise\operators trying exercise\operators trying exercise\obj\Debug\net8.0\operators trying exercise.csproj.CoreCompileInputs.cache
+C:\Users\lakin\repos\Operators-Exercise\operators trying exercise\operators trying exercise\obj\Debug\net8.0\operators trying exercise.sourcelink.json
+C:\Users\lakin\repos\Operators-Exercise\operators trying exercise\operators trying exercise\obj\Debug\net8.0\operators trying exercise.dll
+C:\Users\lakin\repos\Operators-Exercise\operators trying exercise\operators trying exercise\obj\Debug\net8.0\refint\operators trying exercise.dll
+C:\Users\lakin\repos\Operators-Exercise\operators trying exercise\operators trying exercise\obj\Debug\net8.0\operators trying exercise.pdb
+C:\Users\lakin\repos\Operators-Exercise\operators trying exercise\operators trying exercise\obj\Debug\net8.0\operators trying exercise.genruntimeconfig.cache
+C:\Users\lakin\repos\Operators-Exercise\operators trying exercise\operators trying exercise\obj\Debug\net8.0\ref\operators trying exercise.dll
